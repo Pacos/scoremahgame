@@ -1,0 +1,2 @@
+# scoremahgame
+Mahjong Scoring App
